@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "98fa9ec1_b853689b",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1375
+      },
+      "writtenOn": "2022-03-07T07:00:25Z",
+      "side": 1,
+      "message": "this reverts http://gerrit.aicp-rom.com/#/c/113231 not sure if we want this",
+      "revId": "7b4240d7ad13af9371931bfd623b13fda4b96467",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
