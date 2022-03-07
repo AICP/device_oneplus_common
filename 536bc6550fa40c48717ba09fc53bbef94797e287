@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "2f326571_dc81ff80",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 2
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 1375
+      },
+      "writtenOn": "2022-03-07T10:28:37Z",
+      "side": 1,
+      "message": "not needed, because it is not part of manifest. we add this in dependencies-file.\nIf we add this repo to manifest, then the commit is valid.",
+      "revId": "536bc6550fa40c48717ba09fc53bbef94797e287",
+      "serverId": "9f904cbb-a964-4fab-a7dc-5cfc4d5c238b"
+    }
+  ]
+}
